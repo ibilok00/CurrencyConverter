@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "91d0989c-7f26-4bf6-8cdc-7f382cf5c892": {
+      "ProjectGuid": "91d0989c-7f26-4bf6-8cdc-7f382cf5c892",
+      "DisplayName": "CurrencyConverter-API",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

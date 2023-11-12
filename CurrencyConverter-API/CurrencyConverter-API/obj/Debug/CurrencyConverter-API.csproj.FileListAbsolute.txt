@@ -1,0 +1,43 @@
+C:\Users\Ivan Bilokapic\Desktop\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\bin\Debug\CurrencyConverter-API.exe.config
+C:\Users\Ivan Bilokapic\Desktop\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\bin\Debug\CurrencyConverter-API.exe
+C:\Users\Ivan Bilokapic\Desktop\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\bin\Debug\CurrencyConverter-API.pdb
+C:\Users\Ivan Bilokapic\Desktop\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\Ivan Bilokapic\Desktop\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ivan Bilokapic\Desktop\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ivan Bilokapic\Desktop\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\Ivan Bilokapic\Desktop\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\Ivan Bilokapic\Desktop\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\obj\Debug\CurrencyConverter-API.csproj.AssemblyReference.cache
+C:\Users\Ivan Bilokapic\Desktop\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\obj\Debug\CurrencyConverter-API.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ivan Bilokapic\Desktop\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\obj\Debug\MainWindow.g.cs
+C:\Users\Ivan Bilokapic\Desktop\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\obj\Debug\App.g.cs
+C:\Users\Ivan Bilokapic\Desktop\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\obj\Debug\CurrencyConverter-API_MarkupCompile.cache
+C:\Users\Ivan Bilokapic\Desktop\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\obj\Debug\CurrencyConverter-API_MarkupCompile.lref
+C:\Users\Ivan Bilokapic\Desktop\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\obj\Debug\MainWindow.baml
+C:\Users\Ivan Bilokapic\Desktop\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\obj\Debug\CurrencyConverter-API.g.resources
+C:\Users\Ivan Bilokapic\Desktop\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\obj\Debug\CurrencyConverter_API.Properties.Resources.resources
+C:\Users\Ivan Bilokapic\Desktop\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\obj\Debug\CurrencyConverter-API.csproj.GenerateResource.cache
+C:\Users\Ivan Bilokapic\Desktop\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\obj\Debug\CurrencyConverter-API.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Bilokapic\Desktop\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\obj\Debug\CurrencyConverter-API.csproj.CopyComplete
+C:\Users\Ivan Bilokapic\Desktop\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\obj\Debug\CurrencyConverter-API.exe
+C:\Users\Ivan Bilokapic\Desktop\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\obj\Debug\CurrencyConverter-API.pdb
+C:\Users\Ivan\Desktop\JA\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\bin\Debug\CurrencyConverter-API.exe.config
+C:\Users\Ivan\Desktop\JA\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\bin\Debug\CurrencyConverter-API.exe
+C:\Users\Ivan\Desktop\JA\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\bin\Debug\CurrencyConverter-API.pdb
+C:\Users\Ivan\Desktop\JA\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\Ivan\Desktop\JA\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ivan\Desktop\JA\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ivan\Desktop\JA\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\Ivan\Desktop\JA\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\Ivan\Desktop\JA\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\obj\Debug\CurrencyConverter-API.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\JA\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\obj\Debug\MainWindow.g.cs
+C:\Users\Ivan\Desktop\JA\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\obj\Debug\App.g.cs
+C:\Users\Ivan\Desktop\JA\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\obj\Debug\CurrencyConverter-API_MarkupCompile.cache
+C:\Users\Ivan\Desktop\JA\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\obj\Debug\CurrencyConverter-API_MarkupCompile.lref
+C:\Users\Ivan\Desktop\JA\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\obj\Debug\MainWindow.baml
+C:\Users\Ivan\Desktop\JA\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\obj\Debug\CurrencyConverter-API.g.resources
+C:\Users\Ivan\Desktop\JA\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\obj\Debug\CurrencyConverter_API.Properties.Resources.resources
+C:\Users\Ivan\Desktop\JA\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\obj\Debug\CurrencyConverter-API.csproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\JA\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\obj\Debug\CurrencyConverter-API.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\JA\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\obj\Debug\CurrencyConverter-API.csproj.CopyComplete
+C:\Users\Ivan\Desktop\JA\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\obj\Debug\CurrencyConverter-API.exe
+C:\Users\Ivan\Desktop\JA\C# Udemy\CurrencyConverter-API\CurrencyConverter-API\obj\Debug\CurrencyConverter-API.pdb
